@@ -17,6 +17,9 @@ https://github.com/overwatchllama/cmas
 it's generally important to know about updateing extensions
 https://www.siteground.com/tutorials/joomla/update-extensions/?gclid=Cj0KCQjw7aqkBhDPARIsAKGa0oLPaW82JT_gJpexefP3Je7AlmeFpRvslwu5bzAau_8U3Ks3O0aZYFMaAqfOEALw_wcB
 
+if you can't update it then you can manually install
+https://www.siteground.com/tutorials/joomla/install-extensions/#Option_2_-_Install_from_Directory-2
+
 carosel doesn't autoupdate
 https://www.templateplazza.com/joomla-extensions?start=12
 
