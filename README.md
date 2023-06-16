@@ -6,7 +6,7 @@ then set up your winscp
 https://www.siteground.com/kb/winscp/
 
 then you can copy files from here to sitegrounds if you have a login
-https://tools.siteground.com/
+[https://tools.siteground.com/](https://tools.siteground.com/dashboard?siteId=S0E3MFl3PT0%3D)
 
 You should be familiar with Joomla, which you can log into admin here if you have a login
 https://www.cmas-md.org/administrator/
@@ -25,3 +25,13 @@ https://www.templateplazza.com/joomla-extensions?start=12
 
 rs! doesn't autoupdate
 https://www.rsjoomla.com/joomla-templates.html
+
+
+TODO:
+upodate PHP to 8 : 
+https://tools.siteground.com/php-settings?siteId=S0E3MFl3PT0%3D
+
+
+uninstall kunena, update to joomla 4, reinstall kunena
+https://www.kunena.org/docs/en/basics/upgrade/upgrade-k6-0
+
