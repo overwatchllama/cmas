@@ -14,3 +14,11 @@ https://www.cmas-md.org/administrator/
 I suggest you use gitkraken if you're not familiar with git command line in order to merge changes into the git repo
 https://github.com/overwatchllama/cmas
 
+it's generally important to know about updateing extensions
+https://www.siteground.com/tutorials/joomla/update-extensions/?gclid=Cj0KCQjw7aqkBhDPARIsAKGa0oLPaW82JT_gJpexefP3Je7AlmeFpRvslwu5bzAau_8U3Ks3O0aZYFMaAqfOEALw_wcB
+
+carosel doesn't autoupdate
+https://www.templateplazza.com/joomla-extensions?start=12
+
+rs! doesn't autoupdate
+https://www.rsjoomla.com/joomla-templates.html
